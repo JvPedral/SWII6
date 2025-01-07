@@ -1,0 +1,19 @@
+{
+  "FilePath": "c:\\Users\\Rodrigo Braga\\Downloads\\sistemasWeb-main\\sistemasWeb-main\\sistemasWeb2\\P02\\P02_API\\P02_API.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "6.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 1000
+  },
+  "RootNamespace": "P02_API",
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}
