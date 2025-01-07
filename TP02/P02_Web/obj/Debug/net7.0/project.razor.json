@@ -1,0 +1,75 @@
+{
+  "FilePath": "c:\\Users\\Rodrigo Braga\\Downloads\\sistemasWeb-main\\sistemasWeb-main\\sistemasWeb2\\P02\\P02_Web\\P02_Web.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "6.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 1000
+  },
+  "RootNamespace": "P02_Web",
+  "Documents": [
+    {
+      "FilePath": "c:\\Users\\Rodrigo Braga\\Downloads\\sistemasWeb-main\\sistemasWeb-main\\sistemasWeb2\\P02\\P02_Web\\Views\\Produtos\\Create.cshtml",
+      "TargetPath": "Views\\Produtos\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Rodrigo Braga\\Downloads\\sistemasWeb-main\\sistemasWeb-main\\sistemasWeb2\\P02\\P02_Web\\Views\\Produtos\\Details.cshtml",
+      "TargetPath": "Views\\Produtos\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Rodrigo Braga\\Downloads\\sistemasWeb-main\\sistemasWeb-main\\sistemasWeb2\\P02\\P02_Web\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Rodrigo Braga\\Downloads\\sistemasWeb-main\\sistemasWeb-main\\sistemasWeb2\\P02\\P02_Web\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Rodrigo Braga\\Downloads\\sistemasWeb-main\\sistemasWeb-main\\sistemasWeb2\\P02\\P02_Web\\Views\\Produtos\\Delete.cshtml",
+      "TargetPath": "Views\\Produtos\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Rodrigo Braga\\Downloads\\sistemasWeb-main\\sistemasWeb-main\\sistemasWeb2\\P02\\P02_Web\\Views\\Produtos\\Edit.cshtml",
+      "TargetPath": "Views\\Produtos\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Rodrigo Braga\\Downloads\\sistemasWeb-main\\sistemasWeb-main\\sistemasWeb2\\P02\\P02_Web\\Views\\Produtos\\Index.cshtml",
+      "TargetPath": "Views\\Produtos\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Rodrigo Braga\\Downloads\\sistemasWeb-main\\sistemasWeb-main\\sistemasWeb2\\P02\\P02_Web\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Rodrigo Braga\\Downloads\\sistemasWeb-main\\sistemasWeb-main\\sistemasWeb2\\P02\\P02_Web\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Rodrigo Braga\\Downloads\\sistemasWeb-main\\sistemasWeb-main\\sistemasWeb2\\P02\\P02_Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Rodrigo Braga\\Downloads\\sistemasWeb-main\\sistemasWeb-main\\sistemasWeb2\\P02\\P02_Web\\Views\\Autenticar\\Index.cshtml",
+      "TargetPath": "Views\\Autenticar\\Index.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}
